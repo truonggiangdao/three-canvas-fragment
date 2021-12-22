@@ -1,0 +1,189 @@
+{
+  "id": "61b71245277033175c8a0d42",
+  "title": "sample",
+  "friendlyName": "sample",
+  "type": "Aerial",
+  "isDefault": false,
+  "location": "",
+  "viewingAngle": null,
+  "defaultOrientation": [95.90889912913428, 9.036337322860154, -500.0],
+  "coordinates": [0.0, 0.0, 0.0],
+  "lensFlareLocation": [],
+  "noLensFlare": false,
+  "showOnMap": false,
+  "yaw": null,
+  "elevation": null,
+  "previewImgUrl": "https://skynavimagetesting.blob.core.windows.net/skynavtesting-thumb/5613a800-0af3-4e56-9f23-2942bae70ca7",
+  "tourGroupId": "5f6c1a564accbd1cf0121039",
+  "mediaLogoOverride": "",
+  "variantTitle": null,
+  "variantOrder": 0,
+  "cubeMapImages": {
+    "size1024_f4": {
+      "px": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-px/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-px/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-px/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-px/61b71235a4ac8b02d07055ec-22"
+      ],
+      "nx": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nx/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nx/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nx/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nx/61b71235a4ac8b02d07055ec-22"
+      ],
+      "py": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-py/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-py/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-py/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-py/61b71235a4ac8b02d07055ec-22"
+      ],
+      "ny": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-ny/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-ny/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-ny/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-ny/61b71235a4ac8b02d07055ec-22"
+      ],
+      "pz": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-pz/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-pz/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-pz/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-pz/61b71235a4ac8b02d07055ec-22"
+      ],
+      "nz": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nz/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nz/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nz/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-4f-nz/61b71235a4ac8b02d07055ec-22"
+      ]
+    },
+    "size1024_f16": {
+      "px": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-13",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-14",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-22",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-23",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-24",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-31",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-32",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-33",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-34",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-41",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-42",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-43",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-px/61b71235a4ac8b02d07055ec-44"
+      ],
+      "nx": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-13",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-14",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-22",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-23",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-24",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-31",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-32",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-33",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-34",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-41",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-42",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-43",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nx/61b71235a4ac8b02d07055ec-44"
+      ],
+      "py": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-13",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-14",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-22",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-23",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-24",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-31",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-32",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-33",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-34",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-41",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-42",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-43",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-py/61b71235a4ac8b02d07055ec-44"
+      ],
+      "ny": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-13",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-14",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-22",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-23",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-24",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-31",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-32",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-33",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-34",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-41",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-42",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-43",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-ny/61b71235a4ac8b02d07055ec-44"
+      ],
+      "pz": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-13",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-14",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-22",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-23",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-24",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-31",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-32",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-33",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-34",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-41",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-42",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-43",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-pz/61b71235a4ac8b02d07055ec-44"
+      ],
+      "nz": [
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-11",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-12",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-13",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-14",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-21",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-22",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-23",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-24",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-31",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-32",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-33",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-34",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-41",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-42",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-43",
+        "https://skynavimagetesting.blob.core.windows.net/1024-16f-nz/61b71235a4ac8b02d07055ec-44"
+      ]
+    },
+    "size1024": [
+      "https://skynavimagetesting.blob.core.windows.net/1024-px/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/1024-nx/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/1024-py/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/1024-ny/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/1024-pz/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/1024-nz/61b71235a4ac8b02d07055ec"
+    ],
+    "size2048": [
+      "https://skynavimagetesting.blob.core.windows.net/2048-px/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/2048-nx/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/2048-py/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/2048-ny/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/2048-pz/61b71235a4ac8b02d07055ec",
+      "https://skynavimagetesting.blob.core.windows.net/2048-nz/61b71235a4ac8b02d07055ec"
+    ]
+  },
+  "hotspots": [],
+  "sceneVariants": []
+}
